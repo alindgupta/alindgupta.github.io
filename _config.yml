@@ -5,7 +5,7 @@ permalink:           "blog/:year/:month/:day/:title.html"
 #relative_permalinks: true
 
 # Setup
-title:               Kevin Ha
+title:               Alind Gupta
 tagline:             University of Toronto
 paginate:            3
 paginate_path:       "blog/page:num/"
@@ -20,16 +20,16 @@ sass:
 
 # About/contact
 author:
-  name:              Kevin Ha
-  email:             k.ha@mail.utoronto.ca
-  url:               https://kcha.github.io
-  avatar:            "assets/images/avatar.jpg"
-  title:             "PhD candidate in computational biology"
-  location:          "University of Toronto"
+  name:              
+  email:             
+  url:               
+  avatar:            
+  title:             
+  location:          
 
 # Custom variables
-github_username:     kcha
-linkedin_username:   kevinchha
+github_username:    
+linkedin_username: 
 
 plugins: # previously gems:
   - jekyll-paginate
