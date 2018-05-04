@@ -39,7 +39,6 @@ plugins: # previously gems:
 pages_list:
   About: '/'
   Projects: '/projects/'
-  Publications: '/#selected-publications'
   Blog: '/blog/'
 
 # These are not shown in the navigation bar
