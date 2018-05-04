@@ -16,7 +16,7 @@ I work on genetic models of rare human disorders of cilia.
 - PhD in Molecular Genetics (2012-present)
 - BSc in Bacterial Genetics (2008-2012)
 
-# Selected Publications
+# Publications
   1. Phosphatidylinositol 4,5-bisphosphate regulates transition zone maturation in Drosophila
   <small>Alind Gupta, Lacramioara Fabian, Julie Brill (In review)</small>
   
