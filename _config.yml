@@ -1,0 +1,60 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           "blog/:year/:month/:day/:title.html"
+#relative_permalinks: true
+
+# Setup
+title:               Kevin Ha
+tagline:             University of Toronto
+paginate:            3
+paginate_path:       "blog/page:num/"
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Kevin Ha
+  email:             k.ha@mail.utoronto.ca
+  url:               https://kcha.github.io
+  avatar:            "assets/images/avatar.jpg"
+  title:             "PhD candidate in computational biology"
+  location:          "University of Toronto"
+
+# Custom variables
+github_username:     kcha
+linkedin_username:   kevinchha
+
+plugins: # previously gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# List of sections to put in the navigation bar
+pages_list:
+  About: '/'
+  Projects: '/projects/'
+  Publications: '/#selected-publications'
+  Blog: '/blog/'
+
+# These are not shown in the navigation bar
+other_pages_list:
+  Archive: '/archive/'
+
+# List of icons to put in footer
+# Borrowed from Beautiful Jekyll: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+icons_list:
+  top: false
+  home: true
+  rss: false
+  email: true
+  github: true
+  linkedin: true
+
+collections:
+  - portfolio
