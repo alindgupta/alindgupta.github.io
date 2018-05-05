@@ -13,13 +13,13 @@ I work on genetic models of rare human disorders of cilia.
 - Data visualization
 
 # Education
-- PhD in Molecular Genetics (2012-present)
-- BSc in Bacterial Genetics (2008-2012)
+- *PhD* in Molecular Genetics (2012-present)
+- *BSc* in Microbiology (2008-2012)
 
 # Publications
   1. Phosphatidylinositol 4,5-bisphosphate regulates transition zone maturation in Drosophila
-  <small>Alind Gupta, Lacramioara Fabian, Julie Brill (In review)</small>
+  <small>Alind Gupta, Lacramioara Fabian, Julie Brill (In review, [bioRxiv](https://www.biorxiv.org/content/early/2018/05/05/315275))</small>
   
   1. The type I phosphatidylinositol phosphate kinase Skittles perturbs chordotonal neuron function
-  <small>Alind Gupta, Julie Brill (bioRxiv) </small>
+  <small>Alind Gupta, Julie Brill (in prep.) </small>
   
