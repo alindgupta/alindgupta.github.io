@@ -16,7 +16,7 @@ nav_order: 3
 
 ### conference talks
 - Assessing the performance of group-based trajectory modelling method to discover patterns of medication adherence.\
-<span style="display: inline-block; border-bottom: 1px solid; padding-bottom: 0.5px;">Alind Gupta</span>\
+<span style="text-decoration: underline; text-underline-offset: 1px">Alind Gupta</span>\
 *ICPE, Halifax, Nova Scotia, Canada (2023)*
 
 - The Reality of Target Trial Emulation for Medical Decision-Making and HTA Recommendations - Is the Gap Between Academic and HTA Applications too Wide?\
