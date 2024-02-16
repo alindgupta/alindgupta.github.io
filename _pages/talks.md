@@ -32,5 +32,5 @@ Samantha Wilkinson, <em>Alind Gupta</em>, and Paul Arora\
 *ISPOR (May 2020)*
 
 - Bayesian Networks as an Emerging Tool for Disease Risk Estimation and Clinical Decision-Making: A Real-World Example in Coronary Artery Disease\
-<span style="display: inline-block; border-bottom: 1px solid black; padding-bottom: 2px;">Alind Gupta</span>\
+<span style="display: inline-block; border-bottom: 1px solid; padding-bottom: 1px;">Alind Gupta</span>\
 *CADTH symposium, Edmonton, Canada (April 2019)*
