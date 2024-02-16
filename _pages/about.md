@@ -29,5 +29,3 @@ My research interests and expertise are in:
 * Treatment policy optimization
 * Machine learning
 * Public health in low- and middle-income countries
-
----
