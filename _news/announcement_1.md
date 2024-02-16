@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted for workshop on target trial emulation with Stephen Duffield (National Institute for Health and Care Excellence), Joy Shi (Harvard/CAUSALab) and Kristian Thorlund (McMaster) at ISPOR 2023
+Our workshop abstract on target trial emulation with Stephen Duffield (National Institute for Health and Care Excellence), Joy Shi (Harvard/CAUSALab) and Kristian Thorlund (McMaster) accepted at ISPOR 2023
