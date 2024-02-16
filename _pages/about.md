@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Adjunct Lecturer, Division of Epidemiology\
-<a href='https://www.dlsph.utoronto.ca/'>Dalla Lana School of Public Health</a>, University of Toronto
+<span style="font-weight: bolder">Adjunct Lecturer, Division of Epidemiology\
+<a href='https://www.dlsph.utoronto.ca/'>Dalla Lana School of Public Health</a>, University of Toronto</span>
 
 I am a consultant and researcher specializing in data science aimed at improving health outcomes and facilitating decision making. I work primarily with pharma companies, biotechs and public agencies globally.
 
