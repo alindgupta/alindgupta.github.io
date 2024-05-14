@@ -30,8 +30,8 @@ nav_order: 3
 Evie Merinopoulou, <span style="text-decoration: underline; text-underline-offset: 3px">Alind Gupta</span>, Alessandria Struebing, Blythe Adamson, and Stephen Duffield\
 *Accepted as workshop for International Conference for Pharmacoepidemiology (August 2024)*
 
-- Target trial emulation in practice. ISPOR\
-Manuel Gomes, Winson Cheung, and <span style="text-decoration: underline; text-underline-offset: 3px">Alind Gupta</span>\ 
+- Target trial emulation in practice.\
+<span style="text-decoration: underline; text-underline-offset: 3px">Alind Gupta</span>, Manuel Gomes and Winson Cheung\
 *ISPOR, Atlanta (May 8, 2024)*
 
 - The Reality of Target Trial Emulation for Medical Decision-Making and HTA Recommendations - Is the Gap Between Academic and HTA Applications too Wide?\
