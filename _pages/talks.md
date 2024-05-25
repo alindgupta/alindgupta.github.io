@@ -9,7 +9,16 @@ nav_order: 3
 
 ---
 
-### invited talks
+### Conference talks
+- <span style="font-weight:bolder">Assessing the performance of group-based trajectory modelling method to discover patterns of medication adherence</span>\
+*ICPE, Halifax, Nova Scotia, Canada (2023)*
+
+- <span style="font-weight:bolder">Bayesian Networks as an Emerging Tool for Disease Risk Estimation and Clinical Decision-Making: A Real-World Example in Coronary Artery Disease</span>\
+*CADTH symposium, Edmonton, Canada (April 2019)*
+
+---
+
+### Invited talks
 - <span style="font-weight:bolder">Unavoidable bias in epidemiologic studies</span>\
 *GSK Translational Statistics working group (April 5, 2024)*
 
@@ -18,18 +27,7 @@ nav_order: 3
 
 ---
 
-### conference talks
-- <span style="font-weight:bolder">Assessing the performance of group-based trajectory modelling method to discover patterns of medication adherence</span>\
-Alind Gupta\
-*ICPE, Halifax, Nova Scotia, Canada (2023)*
-
-- <span style="font-weight:bolder">Bayesian Networks as an Emerging Tool for Disease Risk Estimation and Clinical Decision-Making: A Real-World Example in Coronary Artery Disease</span>\
-Alind Gupta\
-*CADTH symposium, Edmonton, Canada (April 2019)*
-
----
-
-### conference workshops
+### Conference workshops
 - <span style="font-weight:bolder">Addressing RWE transportability concerns in health care decision-making. How to do it right?</span>\
 Evie Merinopoulou, Alind Gupta, Alessandria Struebing, Blythe Adamson, and Stephen Duffield\
 *Accepted as workshop for International Conference for Pharmacoepidemiology (August 2024)*
@@ -52,7 +50,7 @@ Samantha Wilkinson, Alind Gupta, and Paul Arora\
 
 ---
 
-### short courses
+### Short courses
 
 - <span style="font-weight:bolder">Data transportability in HTAs: An Introduction to Transportability analysis for the Assessment of External validity in RWE studies</span>\
 Evie Merinopoulou, [Anthony Matthews](https://ki.se/en/people/anthony-matthews), Stephen Duffield, and Alind Gupta\
