@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our workshop on transportability was accepted at ICPE 2024 in Berlin!
+Workshop on transportability was accepted at ICPE 2024 in Berlin
